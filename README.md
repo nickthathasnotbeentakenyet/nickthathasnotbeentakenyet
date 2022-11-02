@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<h3 align="left"><a href="https://www.byui.edu/">BYU-I</a>, [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗+𝕴𝖓𝖋𝖔𝖗𝖒𝖆𝖙𝖎𝖔𝖓+𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖞+𝖘𝖙𝖚𝖉𝖊𝖓𝖙+𝖋𝖗𝖔𝖒+𝕽𝖚𝖘𝖘𝖎𝖆+🇷🇺)](https://git.io/typing-svg) </h3>
+<a href="https://www.byui.edu/">BYU-I</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗+𝕴𝖓𝖋𝖔𝖗𝖒𝖆𝖙𝖎𝖔𝖓+𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖞+𝖘𝖙𝖚𝖉𝖊𝖓𝖙+𝖋𝖗𝖔𝖒+𝕽𝖚𝖘𝖘𝖎𝖆+🇷🇺)](https://git.io/typing-svg)
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/simpleicons.svg" />
+<img height="32" width="32" src="[https://unpkg.com/simple-icons@v7/icons/simpleicons.svg](https://simpleicons.org/icons/archlinux.svg)" />
 
 
 <!--
