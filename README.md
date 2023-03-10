@@ -3,8 +3,6 @@
 ## 𝕴 𝖆𝖒 𝖆 𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝕴𝖓𝖋𝖔𝖗𝖒𝖆𝖙𝖎𝖔𝖓 𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖞 𝖘𝖙𝖚𝖉𝖊𝖓𝖙 𝖋𝖗𝖔𝖒 𝕽𝖚𝖘𝖘𝖎𝖆 <img width='40px' height='40px' src="https://user-images.githubusercontent.com/44579671/199605779-f0d874fa-0509-47d0-9901-bd038da1f1f6.png" >
 
 
-### ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) is the place where I find answers when stuck
-### ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) is the prefered code editor
 ### [![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nickthathasnotbeentakenyet&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ### [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nickthathasnotbeentakenyet&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ### Languages:
@@ -21,9 +19,6 @@
 ### Frameworks
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-### Office suites:
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ### Operating Systems:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
