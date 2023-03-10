@@ -1,12 +1,12 @@
 ### <img width='40px' height='40px' src="https://user-images.githubusercontent.com/44579671/199605779-f0d874fa-0509-47d0-9901-bd038da1f1f6.png" >
 
-### Certified in:
-## ᴅᴀᴛᴀʙᴀꜱᴇ 
-## ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ
-## ꜱʏꜱᴛᴇᴍ ᴀᴅᴍɪɴɪꜱᴛʀᴀᴛɪᴏɴ
-## ᴘʀᴏɢʀᴀᴍᴍɪɴɢ 
-## ᴡᴇʙ-ʙᴀᴄᴋᴇɴᴅ
-## ᴡᴇʙ-ꜰʀᴏɴᴛᴇɴᴅ
+## Certified in:
+### ᴅᴀᴛᴀʙᴀꜱᴇ 
+### ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ
+### ꜱʏꜱᴛᴇᴍ ᴀᴅᴍɪɴɪꜱᴛʀᴀᴛɪᴏɴ
+### ᴘʀᴏɢʀᴀᴍᴍɪɴɢ 
+### ᴡᴇʙ-ʙᴀᴄᴋᴇɴᴅ
+### ᴡᴇʙ-ꜰʀᴏɴᴛᴇɴᴅ
 
 ### [![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nickthathasnotbeentakenyet&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ### [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nickthathasnotbeentakenyet&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
