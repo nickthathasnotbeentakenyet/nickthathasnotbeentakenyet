@@ -1,7 +1,12 @@
-### 𝕳𝖎 𝖙𝖍𝖊𝖗𝖊 👋
+### <img width='40px' height='40px' src="https://user-images.githubusercontent.com/44579671/199605779-f0d874fa-0509-47d0-9901-bd038da1f1f6.png" >
 
-## 𝕴 𝖆𝖒 𝖆 𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝕴𝖓𝖋𝖔𝖗𝖒𝖆𝖙𝖎𝖔𝖓 𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖞 𝖘𝖙𝖚𝖉𝖊𝖓𝖙 𝖋𝖗𝖔𝖒 𝕽𝖚𝖘𝖘𝖎𝖆 <img width='40px' height='40px' src="https://user-images.githubusercontent.com/44579671/199605779-f0d874fa-0509-47d0-9901-bd038da1f1f6.png" >
-
+## Certified in:
+ᴅᴀᴛᴀʙᴀꜱᴇ 
+ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ
+ꜱʏꜱᴛᴇᴍ ᴀᴅᴍɪɴɪꜱᴛʀᴀᴛɪᴏɴ
+ᴘʀᴏɢʀᴀᴍᴍɪɴɢ 
+ᴡᴇʙ-ʙᴀᴄᴋᴇɴᴅ
+ᴡᴇʙ-ꜰʀᴏɴᴛᴇɴᴅ
 
 ### [![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nickthathasnotbeentakenyet&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ### [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nickthathasnotbeentakenyet&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,7 +21,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-### Frameworks
+### Frameworks:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ### Operating Systems:
